@@ -1,0 +1,30 @@
+_repo: The-Creative-Process-in-the-Individual_10361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Troward, T. (Thomas)
+    alias: Troward, Thomas
+    birthdate: 1847
+    deathdate: 1916
+    gutenberg_agent_id: '3487'
+    url: http://www.gutenberg.org/2009/agents/3487
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Troward
+description: Front Cover; Title Page; Copyright; Contents; The Starting-Point; The
+  Self-Contemplation of Spirit; The Divine Ideal; The Manifestation of the Life Principle;
+  The Personal Factor; The Standard of Personality; Race Thought and New Thought;
+  The Dnouement of the Creative Process; Conclusion; The Divine Offering; Ourselves
+  in the Divine Offering.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Thought'
+- !lcc 'BF'
+- GITenberg
+title: The Creative Process in the Individual
+url: http://www.gutenberg.org/ebooks/10361
