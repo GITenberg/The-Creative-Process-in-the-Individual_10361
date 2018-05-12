@@ -1,5 +1,8 @@
 _repo: The-Creative-Process-in-the-Individual_10361
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Troward, T. (Thomas)
@@ -14,6 +17,8 @@ description: Front Cover; Title Page; Copyright; Contents; The Starting-Point; T
   The Personal Factor; The Standard of Personality; Race Thought and New Thought;
   The Dnouement of the Creative Process; Conclusion; The Divine Offering; Ourselves
   in the Divine Offering.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10361#The-Creative-Process-in-the-Individual
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
